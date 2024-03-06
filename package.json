@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "author": "Mir Hussain",
+  "author": "MD RAYHAN HOWLADER",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
@@ -15,6 +15,6 @@
     "mongodb": "^4.12.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.0"
   }
 }

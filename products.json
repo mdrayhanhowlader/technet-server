@@ -1,6 +1,6 @@
 [
   {
-    "_id": 1,
+    "id": 1,
     "model": "AMD Ryzen 5 5600X Gaming PC",
     "image": "https://live.staticflickr.com/65535/52522584794_4a9898a992_o.jpg",
     "status": true,
@@ -10,7 +10,7 @@
       "AMD RYZEN 5 5600X PROCESSOR",
       "16GB 3200MHz DDR4 RAM+ 128GB M.2 PCIe SSD"
     ],
-    "price": 128200,
+    "price": 128.00,
     "rating": 3,
     "spec": [
       {
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "_id": 2,
+    "id": 2,
     "model": "Intel 10th Gen Core i3-10100 Gaming PC",
     "image": "https://live.staticflickr.com/65535/52521844202_dd853335c9_o.jpg",
     "status": true,
@@ -50,7 +50,7 @@
       "8GB 2666MHz DDR4 RAM +1TB HDD",
       "GIGABYTE GT 730 2GB DDR3 PCI EXPRESS Graphics Card"
     ],
-    "price": 41809,
+    "price": 41.80,
     "rating": 4,
     "spec": [
       {
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "_id": 3,
+    "id": 3,
     "model": "AMD Ryzen 5 3600 Gaming PC",
     "image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
     "status": true,
@@ -87,7 +87,7 @@
       "AMD Ryzen 5 3600 Processor",
       "ZOTAC GAMING GTX 1660 SUPER 6GB Twin Fan Graphics Card"
     ],
-    "price": 84400,
+    "price": 84.40,
     "rating": 5,
     "spec": [
       {
@@ -114,7 +114,7 @@
     ]
   },
   {
-    "_id": 4,
+    "id": 4,
     "model": "Gaming PC 10th Gen Core i5-10400f",
     "image": "https://live.staticflickr.com/65535/52522584684_9fa14a3332_o.jpg",
     "status": true,
@@ -124,7 +124,7 @@
       "8GB RAM +1TB HDD + 128GB SSD",
       "ASUS GeForce GT 1030 2GB GDDR5 Low Profile Graphics Card"
     ],
-    "price": 56700,
+    "price": 56.70,
     "rating": 3,
     "spec": [
       {
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "_id": 5,
+    "id": 5,
     "model": "Intel 10th Gen Core i7-10700 Gaming PC",
     "image": "https://live.staticflickr.com/65535/52522308736_8453894269_o.jpg",
     "status": true,
@@ -162,7 +162,7 @@
       "16GB RAM + 1TB HDD + 256GB SSD",
       "GeForce GTX 1660 Super NB 6GB-V2 Graphics Card"
     ],
-    "price": 102200,
+    "price": 102.20,
     "spec": [
       {
         "processor": "Intel 10th Gen Core i7-10700 Processor"
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "_id": 6,
+    "id": 6,
     "model": "Intel Core i5-11400 11th Gen Gaming PC",
     "image": "https://live.staticflickr.com/65535/52522308721_4f2de69503_o.jpg",
     "status": true,
@@ -198,7 +198,7 @@
       "16GB RAM + 1TB HDD + 256GB M.2 PCIe SSD",
       "ZOTAC GAMING GTX 1660 SUPER 6GB Graphics Card"
     ],
-    "price": 86200,
+    "price": 86.20,
     "rating": 2,
     "spec": [
       {
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "_id": 7,
+    "id": 7,
     "model": "Intel 11th Gen Core i5-11400f Gaming PC",
     "image": "https://live.staticflickr.com/65535/52522855818_98bdd4c07a_o.jpg",
     "status": true,
@@ -235,7 +235,7 @@
       "Team 16GB DDR4 3200MHz RAM + 128GB M.2 PCIe SSD + Seagate 1TB HDD",
       "Asus Phoenix GeForce GTX 1050Ti 4GB GDDR5 Graphics Card"
     ],
-    "price": 84000,
+    "price": 84.00,
     "rating": 5,
     "spec": [
       {
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "_id": 8,
+    "id": 8,
     "model": "AMD Ryzen 7 5800X3D Gaming PC",
     "image": "https://live.staticflickr.com/65535/52521844332_5f738162d8_o.jpg",
     "status": true,
@@ -275,7 +275,7 @@
       "32GB DDR4 RAM + 500GB PCIe 3.0 NVMe SSD",
       "Colorful GeForce RTX 4090 NB EX-V 24GB GDDR6X Graphics Card"
     ],
-    "price": 399999,
+    "price": 39.99,
     "rating": 3,
     "spec": [
       {
